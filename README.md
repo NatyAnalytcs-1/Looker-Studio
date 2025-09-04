@@ -6,76 +6,78 @@ Panel de Ventas
 https://lookerstudio.google.com/s/piUKCCgAeQA
 
 
-# 📊 Dashboard de Vendas
+# 📊 Dashboard de Vendas — Março/2025
 
-Este relatório foi construído no **Looker Studio** para monitorar o desempenho de vendas em um período específico (**1º a 15 de fevereiro de 2025**).  
-Abaixo estão os principais **insights** obtidos a partir dos gráficos e tabelas.
+Este relatório mostra a performance de vendas no período de **1 a 31 de março de 2025**, destacando os principais indicadores, produtos, vendedores e departamentos.
 
 ---
 
 ## 🔑 Principais Indicadores
 
-- **Venda total:** €25.261,94  
-  ➝ Houve uma **queda de -36,86%** em relação ao período anterior.
+- **Venda total:** R$ 58.270,49  
+  ➝ Leve queda de **-0,45%** em relação ao período anterior.
 
-- **Unidades vendidas:** 188  
-  ➝ Redução de **-25,40%**.
+- **Total de itens vendidos:** 481  
+  ➝ Crescimento de **+19,35%**.
 
-- **Artigo (total distinto):** 59  
-  ➝ Também apresentou queda de **-21,33%**.
+- **Total de produtos distintos vendidos:** 123  
+  ➝ Crescimento de **+5,1%**.
 
-- **Número de clientes:** 18  
-  ➝ Redução de **-18,18%**.
+- **Número de vendedores ativos:** 41  
+  ➝ Crescimento de **+13,89%**.
 
-- **Melhor artigo:** TV LG, 24 polegadas  
-- **Melhor cliente:** Beatriz Vargas López  
+- **Melhor produto:** TV Denver Electronics, 48 polegadas.  
+- **Melhor vendedor:** Isabel Fernández Romero.
 
 ---
 
 ## 📅 Vendas Diárias
 
-- Os dias com maior volume de vendas foram:
-  - **8 de fevereiro**: €5.529,55 (50 unidades).
-  - **9 de fevereiro**: €4.218,81 (10 unidades).
-- Houve oscilações significativas no período, com alguns dias de vendas mais baixas (ex.: 15 de fevereiro, apenas €578,07).
+- O mês apresentou **oscilações diárias** com alguns picos importantes:  
+  - **26 de março:** R$ 6.376,84 em vendas (45 unidades).  
+  - **23 de março:** R$ 5.375,91 em vendas (25 unidades).  
+- Também houve dias de vendas baixas, como **25 de março**, com apenas R$ 535,30.
 
 ---
 
 ## 🏷️ Vendas por Departamento
 
-Distribuição das vendas por categoria de produto:
-- **Televisão**: 22,9%  
-- **Impressoras**: 17,8%  
-- **Ordenadores**: 17,5%  
-- **Smartphones**: 14,9%  
-- **Tablets / eBook**: 11,5%  
-- **Outros**: 15,4%  
+Distribuição percentual das vendas:
+- **Impressoras:** 22,8%  
+- **Smartphones:** 22%  
+- **Televisión:** 21,1%  
+- **Audio/Foto/Video:** 12%  
+- **Tablets / eBooks:** 9,4%  
+- **Outros:** 12,7%  
 
-📌 Destaque para o setor de **Televisão**, que concentrou a maior fatia das vendas.
+📌 Destaques:  
+- O mercado está **bem distribuído** entre três grandes áreas (Impressoras, Smartphones e Televisores), cada uma com cerca de **20%–23% do total**.  
+- Tablets/eBooks têm menor participação (9,4%).
 
 ---
 
-## 👥 Vendas por Cliente
+## 👥 Vendas por Vendedor
 
-Top 3 clientes no período:
-1. **Beatriz Vargas López** — €2.816,33  
-2. **Carmen Martínez Romero** — €2.548,00  
-3. **Laura Jiménez González** — €2.413,00  
+Top 5 vendedores:
+1. **Isabel Fernández Romero** — R$ 4.063,28  
+2. **Alicia Díaz González** — R$ 3.466,36  
+3. **Alberto González López** — R$ 3.094,01  
+4. **Francisco Jiménez Pérez** — R$ 3.055,00  
+5. **Luis García Sánchez** — R$ 2.741,70  
 
-Estes três clientes representam uma parte significativa da receita total.
+📌 Isabel se destaca como a **líder em vendas individuais**, com mais de R$ 4 mil faturados.
 
 ---
 
 ## 📈 Conclusões
 
-- O período analisado apresentou **queda em todos os principais indicadores** (vendas, unidades, ticket médio e clientes).  
-- Apesar da retração, há **clientes-chave e produtos de destaque** (TVs e clientes recorrentes) que devem ser priorizados em estratégias futuras.  
-- Recomenda-se:
-  - Fortalecer campanhas de retenção de clientes de alto valor.  
-  - Reforçar a divulgação dos artigos mais vendidos (como TVs).  
-  - Analisar os dias de pico de vendas para identificar gatilhos de aumento (promoções, campanhas, sazonalidade).  
+- Apesar da **leve queda na receita total (-0,45%)**, houve aumento em **itens vendidos (+19,35%)**, **número de produtos distintos (+5,1%)** e **participação de vendedores (+13,89%)**.  
+- Isso indica que as vendas foram **mais pulverizadas**, com maior diversidade de produtos e maior engajamento da equipe.  
+- O **setor de Impressoras** lidera o faturamento, mas Smartphones e TVs estão muito próximos, formando um **top 3 equilibrado**.  
+- Isabel Fernández Romero é a vendedora mais relevante do período e merece destaque em estratégias de incentivo e retenção.  
+- Recomenda-se investigar a **queda do valor médio por item**, já que a quantidade cresceu mas a receita total caiu levemente — pode indicar descontos maiores ou vendas de itens de menor valor unitário.  
 
 ---
 
 ✍️ **Autor:** Naty  
-📅 **Período analisado:** 1 a 15 de fevereiro de 2025
+📅 **Período analisado:** 1 a 31 de março de 2025
