@@ -11,6 +11,10 @@ https://lookerstudio.google.com/s/piUKCCgAeQA
 Este relatório mostra a performance de vendas no período de **1 a 31 de março de 2025**, destacando os principais indicadores, produtos, vendedores e departamentos.
 
 ---
+<div align="center">
+  <img src="./Capturar.PNG" alt="c" height="500">
+</div>
+
 
 ## 🔑 Principais Indicadores
 
