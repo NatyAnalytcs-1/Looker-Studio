@@ -21,7 +21,7 @@ Abaixo estão os principais **insights** obtidos a partir dos gráficos e tabela
 - **Unidades vendidas:** 188  
   ➝ Redução de **-25,40%**.
 
-- **Ticket médio por artigo:** €59,00  
+- **Artigo (total distinto):** 59  
   ➝ Também apresentou queda de **-21,33%**.
 
 - **Número de clientes:** 18  
