@@ -1,16 +1,21 @@
-# Looker-Studio
-Panel de Ventas
+<h1 align="center">
+  <img src="https://logo.svgcdn.com/l/looker.png" alt="Looker Studio" width="150" height="150"><br>
+  <strong>Painel de Vendas com Looker-Studio</strong>
+</h1>
 
 
 
+Link de acesso: ➡
 https://lookerstudio.google.com/s/piUKCCgAeQA
+
+
 
 
 # 📊 Dashboard de Vendas — Março/2025
 
 Este relatório mostra a performance de vendas no período de **1 a 31 de março de 2025**, destacando os principais indicadores, produtos, vendedores e departamentos.
 
----
+
 <div align="center">
   <img src="./Capturar.PNG" alt="c" height="500">
 </div>
